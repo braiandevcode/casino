@@ -1,9 +1,11 @@
-- Para clonar el ropositorio: **https://github.com/braiandevcode/casino.git**
+Para clonar el ropositorio: **https://github.com/braiandevcode/casino.git**
 # Librerias instaladas
 - **readline-sync**
 - **picocolors**
 
-## Para que todo funcione, ejecuta en tu terminal, en la raiz del proyecto: 
+# Instrucciones para prueba
+
+### Para que todo funcione, ejecuta en tu terminal, en la raiz del proyecto: 
 1- **npm install**(esto instalará las librerías antes mencionadas en tu local).
 
 2- Tener instalado de forma global **ts-node**. Si no lo tienes escribir el siguiente comando: **npm install -g ts-node**.

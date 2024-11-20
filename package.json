@@ -1,0 +1,23 @@
+{
+  "name": "practicas_poo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "tsc && node src/main.js",
+    "dev": "ts-node src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "@types/readline-sync": "^1.4.8",
+    "@types/uuid": "^10.0.0",
+    "picocolors": "^1.1.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "uuid": "^10.0.0"
+  }
+}
